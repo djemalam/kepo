@@ -1,0 +1,7 @@
+Domino
+
+Pada permainan domino terdapat 28 kartu. Maksimal pemain ada 6 orang, dan setiap pemain mendapat 4 kartu. Setiap kartu domino memiliki 2 sisi, sisi atas dan sisi bawah yang dipisahkan oleh garis tengah.
+
+Ada beberapa poin penting dalam permainan domino ini. Pertama adalah Menghitung jumlah seri kartu yang sudah keluar, dengan ini secara tidak langsung kita bisa menerka/menebak seri kartu yang ada di tangan lawan.  
+
+Kemudian, dengan menebak kartu yang ada ditangan lawan, kita lebih berpeluang menang dengan mematikan semua kartu lawan, sehingga permainan dihentikan  (gapleh).
